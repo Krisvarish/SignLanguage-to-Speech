@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
 [![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)](https://keras.io)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An advanced deep learning system that converts American Sign Language (ASL) gestures into speech using Convolutional Neural Networks (CNN) and emotion recognition capabilities. This project bridges communication gaps for the hearing-impaired community by providing real-time sign language interpretation.
 
@@ -175,10 +174,6 @@ This project builds upon recent advances in deep learning for sign language reco
 - **Multi-person Recognition**: Support multiple signers simultaneously
 - **Mobile Deployment**: Optimize models for smartphone applications
 - **Cloud Integration**: Develop API services for broader accessibility
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
